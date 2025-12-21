@@ -9,9 +9,6 @@ Script Purpose:
 		- Truncates Silver table.
 		- Inserts transformed and cleansed data from Bronze into Silver table.
 		
-Parameters:
-    None. 
-	  This stored procedure does not accept any parameters or return any values.
 ===============================================================================
 */
 
